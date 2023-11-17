@@ -36,8 +36,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Project Screenshots
 
-<img width="1552" alt="" src="">
-<img width="1552" alt="" src="">
+<img width="1552" alt="" src="https://github.com/debadityasingh8972/Greenie-Assesment/blob/main/Greenie-assesment/src/assets/user%20details%20page.png">
+<img width="1552" alt="" src="https://github.com/debadityasingh8972/Greenie-Assesment/blob/main/Greenie-assesment/src/assets/account%20creation%20page.png">
 
 ## Lighthouse Results
 Desktop
