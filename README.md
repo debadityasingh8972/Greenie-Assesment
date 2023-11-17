@@ -41,6 +41,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Lighthouse Results
 Desktop
-<img width="1552" alt="" src="">
+<img width="1552" alt="" src="https://github.com/debadityasingh8972/Greenie-Assesment/blob/main/Greenie-assesment/src/assets/Desktop%20Performance.png">
 Mobile
-<img width="1552" alt="" src="">
+<img width="1552" alt="" src="https://github.com/debadityasingh8972/Greenie-Assesment/blob/main/Greenie-assesment/src/assets/Mobile%20Performance.png">
